@@ -4,7 +4,7 @@ echo "Default PHP version changer for cyberpanel apps"
 echo "Version chosen here will be used for phpmyadmin / snappymail"
 echo ""
 
-read -r -p "Choose one of the following php versions [71-72-73-74-80-81-82]: " Input_Number
+read -r -p "Choose one of the following php versions [71-72-73-74-80-81-82-83-84]: " Input_Number
 echo ""
 
 install_php_version() {
